@@ -1,0 +1,344 @@
+
+.img{
+    height: 225;
+     width: 100%;    
+}
+
+.mt-6, .my-6 {
+    margin-top: 5rem!important;
+}
+
+.mt-7, .my-7 {
+    margin-top: 8rem!important;
+}
+
+
+.px-6 {
+    margin-left: 6rem!important;
+    margin-right: 14rem! important;
+}
+
+input{
+    margin-top: 1px! important;
+    margin-bottom: .5rem! important;
+    width: 100%;
+}
+
+
+h2{
+    font-size: 20px;
+    margin-left: 1.7rem! important; 
+}
+
+mx-6{
+    margin-left: 5rem! important;
+    margin-right: 5rem! important;
+}
+
+h1{
+    font-size: 50px;
+    padding-bottom: 2rem! important;
+    color: white;
+    font-size: 50px;
+    line-height: 1.5;
+    font-weight: 300;
+    font-family: 'Lato';
+}
+.container-fluid#header{
+    background-image: url('../images/img_bg_2.jpg'); 
+    background-size: cover;
+    background-position: top center;
+    position: relative;
+    font-family: 'Lato', Arial, sans-serif;
+    z-index: 0;
+}
+
+form{
+    width: 100%;
+    margin-left: 1.5rem! important;
+    margin-right: 1.5rem! important;
+}
+
+button#form_header{
+    width: 100%;
+    background-color: #00ACC1;
+}
+
+.nav .float-md-right{
+    float: right;
+}
+
+.navbar-header a:link, a:visited, a:active, a:hover{
+    font-size: 20px;
+    color: white;
+    font-family: 'Lato';
+}
+
+.nav .float-md-right a:link, a:visited, a:active{
+    color: gainsboro;
+    font-family: 'Lato';
+}
+
+.nav .float-md-right a:hover{
+    color: white;
+    font-family: 'Lato';
+    font-size: 1rem! important;
+}
+
+h3{
+    font-family: 'Lato';
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    padding: auto;
+    
+}
+
+.container #destinos_famosos{
+    font-family: 'Lato';
+    color: gray;
+    font-size: 20px;
+}
+
+.mx-6{
+    margin-left: 11rem! important;
+    margin-right: 11rem! important;
+}
+
+#card{
+    border-color: white;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
+    border-bottom-left-radius: 3.14;
+}
+
+h5{
+    font-size: 22px;
+    color:#00ACC1;
+}
+
+.card-body{
+    font-family: 'Lato';
+    color: black;
+    font-size: 15px;
+    padding-bottom: 0rem! important;
+}
+
+button#trip{
+    background-color: black;
+    color: white;
+    font-family: 'Lato';
+    width: 50%;
+    position:relative;
+    border-color: black;
+}
+
+.container-fluid#parallax { 
+    /* The image used */
+    background-image: url('../images/img_bg_1.jpg');
+
+    /* Full height */
+    height: 100%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.py-6
+{
+   padding-bottom: 7rem! important; 
+   padding-top: 8rem! important; 
+}
+
+h6
+{
+ color: white;
+ font-family: 'Lato';
+ font-size: 62px; 
+ font-weight: 300;
+}
+
+#como_funciona{
+    background-color:#00ACC1;
+    padding: 7em 0;
+    
+}
+#row2{
+    text-align: center;
+    padding-left: 15rem;
+    padding-right: 15rem;
+    padding-top: 15px;
+}
+#row1{
+    text-align: center;
+    margin-bottom: 5em;
+    font-weight: 300;
+}
+#col_como_funciona{
+    margin-top: 100px;
+}
+.mx-8{
+    margin-left: 25rem! important;
+    margin-right: 25rem! important;
+    margin-top: 20px;
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 20px;
+}
+.title_123{
+    margin-top: 40px;
+    font-size: 20px;
+    color: white;
+    
+}
+.paragrafo_123{
+    margin-top: 25px;
+    color: rgba(255, 255, 255, 0.7);
+    
+    
+}
+.icon{
+    border-radius: 50%;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border: 1px solid white;
+    font-size: 30px;
+    color: white;
+
+    line-height: 100px;
+    text-align: center;
+    vertical-align: top;
+}
+.title_como_funciona{
+    color: white;
+}
+
+#case{
+    background-color: white;
+
+}
+
+.paragrafo_case{
+    margin-left: 18rem! important;
+    margin-right: 18rem! important;
+    margin-top: 20px;
+}
+
+#row3{
+    margin-left: 100px;
+    font-size: 50px;
+    color: #00ACC1;
+    font-weight: 100;
+}
+
+.numero_case {
+    font-size: 50px;
+    margin-bottom: 10px;
+    color: #00ACC1;
+    font-weight: 100;
+    display: block;
+}
+.title_case {
+    margin-bottom: 0;
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 0.5);
+    letter-spacing: .1em;
+    font-size: 17px;
+}
+.estrutura_case{
+    text-align: initial;
+    padding-right: 100px;
+    float: left;
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+
+
+#assine{
+    background-color: #0d8696;
+    color: white;
+    font-family: 'Lato';
+    width: 100%;
+    height: 100%;
+    position: relative;
+    padding-left: 0em;
+    padding-right: 0em;
+    padding-top: 7em;
+    padding-bottom: 7em;
+  
+}
+#assin{
+    font-size: 50px;
+    padding-left: auto;
+    padding-right: auto;
+}
+#asslo{
+    color: #83c6cf;
+    font-size:20px;
+    max-width: 700px;
+    text-align: center;
+    
+}
+input::first-line{
+    color: white;
+
+}
+
+
+
+button#assBtn{
+    height: 46px;
+    color: white;
+    width: 350px;;
+    border-color: #0d8696;
+    background-color: #07bae7;
+    font-size: 18px;
+       
+}
+
+#email{
+   /* background-color: #0b7886;*/
+    color: white !important;
+    border: solid #07bae7 !important;
+    border-width: 0.1px;
+    border-color: #07bae7;
+        
+    
+}
+#sob{
+    color:black !important;
+ 
+    font-size: 1rem;
+
+}
+
+
+#fim{
+    
+    font-size: 85%
+    
+}
+
+#iconesFim{
+    /*margin-left: 10rem;*/
+    padding-left: 5rem;
+    position: relative;
+    left:70%;
+    width: 200px;
+    font-size: 20px;
+}
+
+.titulo_case{
+    font-family: 'Lato';
+    color: black;
+    font-size: 50px;
+}
+
+
+#map {
+    width: 300px;
+    height: 300px;
+}
